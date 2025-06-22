@@ -16,7 +16,7 @@ This project demonstrates a complete CI/CD pipeline using Azure DevOps, Docker, 
 4. Commit and push changes
 
 ## Snapshots
-![screenshot_19](screenshots/screenshot_1.png)
+Screenshot (19).png
 ![screenshot_2](screenshots/screenshot_2.png)
 ![screenshot_3](screenshots/screenshot_3.png)
 ![screenshot_4](screenshots/screenshot_4.png)
