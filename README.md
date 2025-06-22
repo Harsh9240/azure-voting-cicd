@@ -16,8 +16,8 @@ This project demonstrates a complete CI/CD pipeline using Azure DevOps, Docker, 
 4. Commit and push changes
 
 ## Snapshots
-Screenshot (19).png
-![screenshot_2](screenshots/screenshot_2.png)
+(https://github.com/Harsh9240/azure-voting-cicd/blob/c99cae8e220a48dbd143c1f58344d9f7ca40adaf/Screenshot%20(19).png)
+](https://github.com/Harsh9240/azure-voting-cicd/blob/c99cae8e220a48dbd143c1f58344d9f7ca40adaf/Screenshot%20(19).png)![screenshot_2](screenshots/screenshot_2.png)
 ![screenshot_3](screenshots/screenshot_3.png)
 ![screenshot_4](screenshots/screenshot_4.png)
 ![screenshot_5](screenshots/screenshot_5.png)
